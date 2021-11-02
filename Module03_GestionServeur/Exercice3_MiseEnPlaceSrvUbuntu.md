@@ -20,6 +20,7 @@ Système d'exploitation : Ubuntu 20.04 serveur Lts
   -- Mémoire : 4 Go
   -- 3 nouveaux disques avec 10 Go, 20 Go e 20 Go sur SAN-DFC.  <a href="Images/Disque.png">Images ajout des disques</a>
   -- Fichier ISO : Synology-DFC -> ISO -> Ubuntu-20.04.2-live-serveur-amd64.iso
+  -- Reseau : VM-DFC2
   Images de références : <a href="Images/ConfigVM.png">Image ConfigVM</a> , <a href="Images/ConfigVM.png">Fin de la config</a>.
 
 ## Consigne pour l'utilisation du clavier :
